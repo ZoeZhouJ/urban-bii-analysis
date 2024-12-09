@@ -8,7 +8,7 @@ This project analyzes changes in the Biodiversity Intactness Index (BII) in Phoe
 ## Repository Structure
 ```
 .
-├── data/                             
+├── data_clean/                             
 ├── .gitignore                       
 ├── README.md                        
 ├── biodiversity.ipynb       
