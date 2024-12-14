@@ -18,10 +18,10 @@ urban-bii-analysis/
 ## Data Access
 
 1. Biodiversity Intactness Index (BII) Time Series
-Access the `io-biodiveristy` collection from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) Use the 2017 and 2020 raster covering the Phoenix subdivision. A bounding box with cooridinates `[-112.826843, 32.974108, -111.184387, 33.863574]` is used for data acquisition. 
+Access the `io-biodiveristy` collection from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) Use the 2017 and 2020 raster covering the Phoenix subdivision. A bounding box with cooridinates `[-112.826843, 32.974108, -111.184387, 33.863574]` is used for data acquisition. Data can be retrieved by searching for `io_biodiversity` collection with specified parameters in the MPC catalog. 
 
 2. Phoenix Subdivision Shapefile 
-The Phoenix subdivision shapefile was downloaded from the [2020 TIGER/Line® Shapefiles:](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=County+Subdivisions) County Subdivisions for Arizona, as provided by the US Census Bureau.
+The Phoenix subdivision shapefile was downloaded from the [2020 TIGER/Line® Shapefiles:](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=County+Subdivisions) County Subdivisions for Arizona, as provided by the US Census Bureau. Data can be accessed by selecting Arizona on the webiste and clicking download. 
 
 ## Acknowledgments
 This repository contains materials created by Carmen Galaz-Garcia for the course [EDS 220 - Working with Environmental Datasets](https://meds-eds-220.github.io/MEDS-eds-220-course/). This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
