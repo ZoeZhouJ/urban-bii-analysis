@@ -25,3 +25,10 @@ The Phoenix subdivision shapefile was downloaded from the [2020 TIGER/Line® Sha
 
 ## Acknowledgments
 This repository contains materials created by Carmen Galaz-Garcia for the course [EDS 220 - Working with Environmental Datasets](https://meds-eds-220.github.io/MEDS-eds-220-course/). This course is part of the [UCSB Masters in Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science).
+
+**Biodiversity Intactness Index data**
+De Ornellas, P., Callaghan, C.T., Lahoz-Monfort, J.J., & Simmonds, J.S. (2023). io-biodiversity: Global Time Series Maps of Biodiversity Intactness Index. Microsoft Planetary Computer. https://doi.org/10.34911/rdnt.ev7x2p
+
+**Administrative Boundaries**
+U.S. Census Bureau (2020). TIGER/Line Shapefiles: County Subdivisions [Arizona]. Retrieved from https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=County+Subdivisions
+
