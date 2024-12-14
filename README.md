@@ -7,13 +7,14 @@ This project analyzes changes in the Biodiversity Intactness Index (BII) in Phoe
 
 ## Repository Structure
 ```
-.
-├── data_clean/                             
-├── .gitignore                       
-├── README.md                        
-├── biodiversity.ipynb       
+urban-bii-analysis/
+├── data_clean/
+│   ├── phoenix-boundary-file
+│   └── ...
+├── .gitignore
+├── README.md
+└── biodiveristy.ipynb
 ```
-
 ## Data Access
 
 1. Biodiversity Intactness Index (BII) Time Series
